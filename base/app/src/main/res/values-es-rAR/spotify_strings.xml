@@ -47,7 +47,7 @@
     <string name="video_settings_canvas_subtitle" formatted="false">Efectos visuales breves y en repetición cuando se reproduce una canción.</string>
     <string name="age_assurance_intro_cta_not_now" formatted="false">Ahora no</string>
     <string name="version_sunsetting_dialog_cta_update" formatted="false">Actualizar</string>
-    <string name="default_notification_channel_name" formatted="false">Spotify</string>
+    <string name="default_notification_channel_name" formatted="false">SpotiX</string>
     <string name="label_bluetooth" formatted="false">Bluetooth</string>
     <string name="action_share_label" formatted="false">Compartir</string>
     <string name="action_queue_label" formatted="false">Agregar a la fila</string>
@@ -92,7 +92,7 @@
     <string name="account_title" formatted="false">Cuenta</string>
     <string name="song_dna_search_chip_followed_artists" formatted="false">Artistas que seguís</string>
     <string name="local_files_empty_section_title" formatted="false">Agregá tus propios archivos de audio a Tu biblioteca</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">¿Tenés una canción o un podcast personal que no está en Spotify?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">¿Tenés una canción o un podcast personal que no está en SpotiX?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Tus archivos de audio van a aparecer acá</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Permitir acceso</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Ir a la configuración</string>

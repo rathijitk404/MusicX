@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Artis yang diikuti</string>
     <string name="local_files_title" formatted="false">File Lokal</string>
     <string name="local_files_empty_section_title" formatted="false">Tambahkan file audiomu sendiri ke Koleksi Kamu</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Punya lagu atau podcast pribadi yang tidak ada di Spotify?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Punya lagu atau podcast pribadi yang tidak ada di SpotiX?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">File audiomu akan muncul di sini</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Beri akses</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Buka Pengaturan</string>

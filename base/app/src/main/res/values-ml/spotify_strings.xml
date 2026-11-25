@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">പിന്തുടരുന്ന ആർട്ടിസ്റ്റുകൾ</string>
     <string name="local_files_title" formatted="false">ലോക്കൽ ഫയലുകൾ</string>
     <string name="local_files_empty_section_title" formatted="false">നിങ്ങളുടെ ലൈബ്രറിയിലേക്ക് സ്വന്തം ഓഡിയോ ഫയലുകൾ ചേർക്കുക</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Spotify-യിൽ ഇല്ലാത്ത ഒരു ഗാനമോ വ്യക്തിഗത പോഡ്‌കാസ്റ്റോ ലഭിച്ചോ?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">SpotiX-യിൽ ഇല്ലാത്ത ഒരു ഗാനമോ വ്യക്തിഗത പോഡ്‌കാസ്റ്റോ ലഭിച്ചോ?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">നിങ്ങളുടെ ഓഡിയോ ഫയലുകൾ ഇവിടെ ദൃശ്യമാകും</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">ആക്‌സസ് നൽകുക</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">ക്രമീകരണത്തിലേക്ക് പോകുക</string>

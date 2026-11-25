@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Artistas seguidos</string>
     <string name="local_files_title" formatted="false">Arquivos locais</string>
     <string name="local_files_empty_section_title" formatted="false">Adicione seus próprios arquivos de áudio à Sua Biblioteca</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Tem uma música ou podcast pessoal que não está no Spotify?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Tem uma música ou podcast pessoal que não está no SpotiX?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Os arquivos de áudio vão aparecer aqui</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Permitir acesso</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Ir para as Configurações</string>

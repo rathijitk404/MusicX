@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="nerd_title">极客统计信息</string>
-    <string name="nerd_section_exo">Myspoti 播放器（ExoPlayer）</string>
-    <string name="nerd_section_spotify">Spotify（网页播放器）</string>
+    <string name="nerd_section_exo">SpotiX 播放器（ExoPlayer）</string>
+    <string name="nerd_section_spotify">SpotiX（网页播放器）</string>
     <string name="nerd_source">来源</string>
     <string name="nerd_source_extension">扩展：%1$s</string>
     <string name="nerd_source_extension_waiting">某个扩展（尚未应答）</string>
@@ -48,11 +48,11 @@
     <string name="nerd_requested">向页面请求</string>
     <string name="nerd_page_reports">页面声明</string>
     <string name="nerd_page_reports_none">暂无上报</string>
-    <string name="nerd_mirror">Spotify 镜像</string>
-    <string name="nerd_mirror_on">开：Spotify 以最低音质静音播放这首歌，因此会计入播放，Connect 也能看到</string>
-    <string name="nerd_mirror_extension">开，由 %1$s 保持：Spotify 静音播放</string>
+    <string name="nerd_mirror">SpotiX 镜像</string>
+    <string name="nerd_mirror_on">开：SpotiX 以最低音质静音播放这首歌，因此会计入播放，Connect 也能看到</string>
+    <string name="nerd_mirror_extension">开，由 %1$s 保持：SpotiX 静音播放</string>
     <string name="nerd_mirror_off">关</string>
-    <string name="nerd_spotify_note">Spotify 的流在页面内加密：无法获取其确切的编解码器和比特率，只能看到页面声明的内容。</string>
+    <string name="nerd_spotify_note">SpotiX 的流在页面内加密：无法获取其确切的编解码器和比特率，只能看到页面声明的内容。</string>
     <string name="nerd_spotify_remote">声音来自另一台设备：此手机只负责控制它。</string>
     <string name="nerd_automix">AutoMix</string>
     <string name="nerd_automix_blend">节拍对齐混音</string>

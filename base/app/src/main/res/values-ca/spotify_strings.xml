@@ -102,7 +102,7 @@
     <string name="account_title" formatted="false">Compte</string>
     <string name="song_dna_search_chip_followed_artists" formatted="false">Artistes que segueixes</string>
     <string name="local_files_empty_section_title" formatted="false">Afegeix els teus propis fitxers d\'àudio a La teva biblioteca</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Tens una cançó o un pòdcast personal que no és a Spotify?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Tens una cançó o un pòdcast personal que no és a SpotiX?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Els teus fitxers d\'àudio es mostraran aquí</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Permet l\'accés</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Ves a Configuració</string>

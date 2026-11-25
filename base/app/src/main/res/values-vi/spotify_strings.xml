@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Nghệ sĩ đang theo dõi</string>
     <string name="local_files_title" formatted="false">Tệp trên thiết bị</string>
     <string name="local_files_empty_section_title" formatted="false">Thêm tệp âm thanh của riêng bạn vào Thư viện</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Bạn có bài hát hoặc podcast cá nhân không có trên Spotify?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Bạn có bài hát hoặc podcast cá nhân không có trên SpotiX?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Tệp âm thanh của bạn sẽ xuất hiện ở đây</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Cấp quyền truy cập</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Chuyển đến Cài đặt</string>

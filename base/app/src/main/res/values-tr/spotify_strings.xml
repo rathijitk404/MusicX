@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Takip edilen sanatçılar</string>
     <string name="local_files_title" formatted="false">Yerel Dosyalar</string>
     <string name="local_files_empty_section_title" formatted="false">Kendi ses dosyalarını Kitaplığın\'a ekle</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Spotify\'da yer almayan bir şarkın veya kişisel podcast\'in mi var?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">SpotiX\'da yer almayan bir şarkın veya kişisel podcast\'in mi var?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Ses dosyaların burada görünür</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Erişim ver</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Ayarlar\'a git</string>

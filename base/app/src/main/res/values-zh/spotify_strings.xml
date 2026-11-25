@@ -58,7 +58,7 @@
     <string name="context_type_description_artist" formatted="false">播放自“艺人”</string>
     <string name="context_type_description_show" formatted="false">从播客播放</string>
     <string name="context_type_description_search" formatted="false">播放自“搜索”</string>
-    <string name="default_notification_channel_name" formatted="false">Spotify</string>
+    <string name="default_notification_channel_name" formatted="false">SpotiX</string>
     <string name="label_bluetooth" formatted="false">蓝牙</string>
     <string name="action_share_label" formatted="false">分享</string>
     <string name="action_queue_label" formatted="false">队列</string>
@@ -104,7 +104,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">已关注艺人</string>
     <string name="local_files_title" formatted="false">本地文件</string>
     <string name="local_files_empty_section_title" formatted="false">将你的音频文件添加到“音乐库”</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">找到了 Spotify 没有的歌曲或个人播客？</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">找到了 SpotiX 没有的歌曲或个人播客？</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">你的音频文件将显示在此处</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">允许访问</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">前往“设置”</string>

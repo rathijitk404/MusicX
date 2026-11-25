@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Praćeni izvođači</string>
     <string name="local_files_title" formatted="false">Lokalni fajovi</string>
     <string name="local_files_empty_section_title" formatted="false">Dodajte audio fajlove u odjeljak Vaša biblioteka</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Imate pjesmu ili lični podcast koji nisu na Spotifyu?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Imate pjesmu ili lični podcast koji nisu na SpotiXu?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Audio fajlovi će se prikazivati ovdje</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Dozvoli pristup</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Idite na Postavke</string>

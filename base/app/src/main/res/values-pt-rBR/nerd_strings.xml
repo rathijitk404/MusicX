@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="nerd_title">Estatísticas para nerds</string>
-    <string name="nerd_section_exo">Player do Myspoti (ExoPlayer)</string>
-    <string name="nerd_section_spotify">Spotify (player web)</string>
+    <string name="nerd_section_exo">Player do SpotiX (ExoPlayer)</string>
+    <string name="nerd_section_spotify">SpotiX (player web)</string>
     <string name="nerd_source">Fonte</string>
     <string name="nerd_source_extension">Extensão: %1$s</string>
     <string name="nerd_source_extension_waiting">Uma extensão (ainda sem resposta)</string>
@@ -48,11 +48,11 @@
     <string name="nerd_requested">Pedido à página</string>
     <string name="nerd_page_reports">Informado pela página</string>
     <string name="nerd_page_reports_none">Nada informado ainda</string>
-    <string name="nerd_mirror">Espelho do Spotify</string>
-    <string name="nerd_mirror_on">Ligado: o Spotify toca esta música sem som, na qualidade mais baixa, então ela é contada e o Connect a vê</string>
-    <string name="nerd_mirror_extension">Ligado, mantido por %1$s: o Spotify toca sem som</string>
+    <string name="nerd_mirror">Espelho do SpotiX</string>
+    <string name="nerd_mirror_on">Ligado: o SpotiX toca esta música sem som, na qualidade mais baixa, então ela é contada e o Connect a vê</string>
+    <string name="nerd_mirror_extension">Ligado, mantido por %1$s: o SpotiX toca sem som</string>
     <string name="nerd_mirror_off">Desligado</string>
-    <string name="nerd_spotify_note">O stream do Spotify é criptografado dentro da página: seu codec e taxa de bits exatos não são acessíveis, apenas o que a página informa.</string>
+    <string name="nerd_spotify_note">O stream do SpotiX é criptografado dentro da página: seu codec e taxa de bits exatos não são acessíveis, apenas o que a página informa.</string>
     <string name="nerd_spotify_remote">O som vem de outro dispositivo: este celular apenas o controla.</string>
     <string name="nerd_automix">AutoMix</string>
     <string name="nerd_automix_blend">Mixagem no tempo</string>

@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Последвани изпълнители</string>
     <string name="local_files_title" formatted="false">Локални файлове</string>
     <string name="local_files_empty_section_title" formatted="false">Добавете свои собствени аудиофайлове към „Вашата библиотека“</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Имате песен или личен подкаст, които не са в Spotify?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Имате песен или личен подкаст, които не са в SpotiX?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Аудиофайловете ви ще се показват тук</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Дайте достъп</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Към „Настройки“</string>

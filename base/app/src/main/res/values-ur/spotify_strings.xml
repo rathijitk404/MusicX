@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">فالو کردہ آرٹسٹس</string>
     <string name="local_files_title" formatted="false">مقامی فائلز</string>
     <string name="local_files_empty_section_title" formatted="false">آپ کی لائبریری میں اپنی ذاتی آڈیو فائلز شامل کریں</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">ایسا کوئی گانا یا ذاتی پوڈکاسٹ ہے جو Spotify پر نہیں ہے؟</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">ایسا کوئی گانا یا ذاتی پوڈکاسٹ ہے جو SpotiX پر نہیں ہے؟</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">آپ کی آڈیو فائلز یہاں ظاہر ہوں گی</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">رسائی فراہم کریں</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">سیٹنگز پر جائیں</string>

@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">फॉलो केलेले कलाकार</string>
     <string name="local_files_title" formatted="false">स्थानिक फाइल्स</string>
     <string name="local_files_empty_section_title" formatted="false">तुमच्या स्वतःच्या ऑडिओ फाइल तुमच्या लायब्ररीमध्ये जोडा</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Spotify वर नसलेले गाणे किंवा वैयक्तिक पॉडकास्ट मिळाले?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">SpotiX वर नसलेले गाणे किंवा वैयक्तिक पॉडकास्ट मिळाले?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">तुमच्या ऑडिओ फाइल येथे दिसतील</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">अ‍ॅक्सेस द्या</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">सेटिंग मध्ये जा</string>

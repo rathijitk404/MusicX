@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Kunstnere, du følger</string>
     <string name="local_files_title" formatted="false">Lokale filer</string>
     <string name="local_files_empty_section_title" formatted="false">Føj dine egne lydfiler til Dit bibliotek</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Har du en sang eller personlig podcast, som ikke er tilgængelig på Spotify?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Har du en sang eller personlig podcast, som ikke er tilgængelig på SpotiX?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Dine lydfiler vises her</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Giv adgang</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Gå til Indstillinger</string>

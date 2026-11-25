@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="nerd_title">Statistiques pour les curieux</string>
-    <string name="nerd_section_exo">Lecteur Myspoti (ExoPlayer)</string>
-    <string name="nerd_section_spotify">Spotify (lecteur web)</string>
+    <string name="nerd_section_exo">Lecteur SpotiX (ExoPlayer)</string>
+    <string name="nerd_section_spotify">SpotiX (lecteur web)</string>
     <string name="nerd_source">Source</string>
     <string name="nerd_source_extension">Extension : %1$s</string>
     <string name="nerd_source_extension_waiting">Une extension (pas encore de réponse)</string>
@@ -48,11 +48,11 @@
     <string name="nerd_requested">Demandé à la page</string>
     <string name="nerd_page_reports">Annoncé par la page</string>
     <string name="nerd_page_reports_none">Rien de signalé pour l’instant</string>
-    <string name="nerd_mirror">Miroir Spotify</string>
-    <string name="nerd_mirror_on">Activé : Spotify joue ce titre sans le faire entendre, à sa plus basse qualité, donc il le compte et Connect le voit</string>
-    <string name="nerd_mirror_extension">Activé, maintenu par %1$s : Spotify joue sans le faire entendre</string>
+    <string name="nerd_mirror">Miroir SpotiX</string>
+    <string name="nerd_mirror_on">Activé : SpotiX joue ce titre sans le faire entendre, à sa plus basse qualité, donc il le compte et Connect le voit</string>
+    <string name="nerd_mirror_extension">Activé, maintenu par %1$s : SpotiX joue sans le faire entendre</string>
     <string name="nerd_mirror_off">Désactivé</string>
-    <string name="nerd_spotify_note">Le flux Spotify est chiffré dans la page : son codec et son débit exacts ne sont pas accessibles, seulement ce que la page annonce.</string>
+    <string name="nerd_spotify_note">Le flux SpotiX est chiffré dans la page : son codec et son débit exacts ne sont pas accessibles, seulement ce que la page annonce.</string>
     <string name="nerd_spotify_remote">Le son vient d’un autre appareil : ce téléphone ne fait que le commander.</string>
     <string name="nerd_automix">AutoMix</string>
     <string name="nerd_automix_blend">Fondu calé sur le tempo</string>

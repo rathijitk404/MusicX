@@ -49,13 +49,12 @@ private fun openUrl(context: Context, url: String) {
     }
 }
 
-/** About: the version, the Discord community, the source code and Ko-fi. */
+/** Cloud X: who made SpotiX, where to find them, and the credit to the app it is built from (GPL-3.0). */
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun AboutSheet(onDismiss: () -> Unit) {
     val context = LocalContext.current
     com.music.spotui.extensions.ProtectedSurfaceEffect(app.myspoti.extensions.ProtectedSurface.ABOUT)
-    // Opened in full: half open, it hid the support buttons at the bottom.
     LookSheet(
         onDismissRequest = onDismiss,
         sheetState = androidx.compose.material3.rememberModalBottomSheetState(skipPartiallyExpanded = true),
@@ -65,26 +64,23 @@ fun AboutSheet(onDismiss: () -> Unit) {
             Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.padding(horizontal = 20.dp)) {
                 Image(
                     painterResource(R.drawable.ic_launcher_foreground), contentDescription = null,
-                    modifier = Modifier.size(56.dp).clip(RoundedCornerShape(14.dp)).background(tone(0xFF121212)),
+                    modifier = Modifier.size(56.dp).clip(RoundedCornerShape(14.dp)).background(tone(0xFF000000)),
                 )
                 Column(Modifier.padding(start = 14.dp)) {
-                    Text("Myspoti", color = AppText, fontSize = 20.sp, fontWeight = FontWeight.Bold)
-                    Text("${stringResource(R.string.settings_item_version_title)} ${BuildConfig.VERSION_NAME}",
-                        color = AppMuted, fontSize = 13.sp)
+                    Text("Cloud X", color = AppText, fontSize = 20.sp, fontWeight = FontWeight.Bold)
+                    Text("SpotiX ${BuildConfig.VERSION_NAME}", color = AppMuted, fontSize = 13.sp)
                 }
             }
-            Text(stringResource(R.string.about_free), color = AppMuted, fontSize = 13.sp,
+            Text("SpotiX is made by RYÚK ZÉRÖ (Rathijit Karmakar).", color = AppMuted, fontSize = 13.sp,
                 modifier = Modifier.padding(start = 20.dp, end = 20.dp, top = 12.dp, bottom = 8.dp))
-            AboutRow(stringResource(R.string.about_discord), stringResource(R.string.about_discord_detail)) { openUrl(context, DISCORD_URL) }
-            AboutRow(stringResource(R.string.about_github), stringResource(R.string.about_github_detail)) { openUrl(context, "https://github.com/$repo") }
-            Text(stringResource(R.string.support_body), color = AppMuted, fontSize = 13.sp,
-                modifier = Modifier.padding(start = 20.dp, end = 20.dp, top = 14.dp, bottom = 12.dp))
-            Box(
-                contentAlignment = Alignment.Center,
-                modifier = Modifier.padding(horizontal = 20.dp).fillMaxWidth().height(48.dp).clip(RoundedCornerShape(50))
-                    .background(AppAccent).pressable(0.96f) { SupportReminder.open(context) },
-            ) { Text(stringResource(R.string.support_action), color = Color.Black, fontSize = 16.sp, fontWeight = FontWeight.Bold) }
-            GitHubSponsorButton(Modifier.padding(start = 20.dp, end = 20.dp, top = 10.dp))
+            AboutRow("Instagram", "@rathijitk_zero") { openUrl(context, "https://instagram.com/rathijitk_zero") }
+            AboutRow("GitHub", "rathijitk404") { openUrl(context, "https://github.com/rathijitk404") }
+            AboutRow("Source code", "SpotiX on GitHub") { openUrl(context, "https://github.com/rathijitk404/MusicX") }
+            Text("SpotiX is a modified version of Myspoti by kota-zo, free software under the GNU GPL v3. " +
+                "Not affiliated with Spotify.", color = AppMuted, fontSize = 12.sp,
+                modifier = Modifier.padding(start = 20.dp, end = 20.dp, top = 14.dp, bottom = 4.dp))
+            AboutRow("Original app: Myspoti", "github.com/kota-zo/myspoti") { openUrl(context, "https://github.com/kota-zo/myspoti") }
+            AboutRow("License", "GNU General Public License v3.0") { openUrl(context, "https://www.gnu.org/licenses/gpl-3.0.html") }
         }
     }
 }

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="nerd_title">Statistiche per nerd</string>
-    <string name="nerd_section_exo">Player di Myspoti (ExoPlayer)</string>
-    <string name="nerd_section_spotify">Spotify (player web)</string>
+    <string name="nerd_section_exo">Player di SpotiX (ExoPlayer)</string>
+    <string name="nerd_section_spotify">SpotiX (player web)</string>
     <string name="nerd_source">Sorgente</string>
     <string name="nerd_source_extension">Estensione: %1$s</string>
     <string name="nerd_source_extension_waiting">Un\'estensione (non ha ancora risposto)</string>
@@ -48,11 +48,11 @@
     <string name="nerd_requested">Richiesto alla pagina</string>
     <string name="nerd_page_reports">Dichiarato dalla pagina</string>
     <string name="nerd_page_reports_none">Ancora nulla di segnalato</string>
-    <string name="nerd_mirror">Mirror Spotify</string>
-    <string name="nerd_mirror_on">Attivo: Spotify riproduce questo brano senza farlo sentire, alla qualità più bassa, quindi lo conteggia e Connect lo vede</string>
-    <string name="nerd_mirror_extension">Attivo, mantenuto da %1$s: Spotify riproduce senza farlo sentire</string>
+    <string name="nerd_mirror">Mirror SpotiX</string>
+    <string name="nerd_mirror_on">Attivo: SpotiX riproduce questo brano senza farlo sentire, alla qualità più bassa, quindi lo conteggia e Connect lo vede</string>
+    <string name="nerd_mirror_extension">Attivo, mantenuto da %1$s: SpotiX riproduce senza farlo sentire</string>
     <string name="nerd_mirror_off">Disattivato</string>
-    <string name="nerd_spotify_note">Il flusso di Spotify è cifrato all\'interno della pagina: il suo codec e il suo bitrate esatti non sono accessibili, solo ciò che la pagina dichiara.</string>
+    <string name="nerd_spotify_note">Il flusso di SpotiX è cifrato all\'interno della pagina: il suo codec e il suo bitrate esatti non sono accessibili, solo ciò che la pagina dichiara.</string>
     <string name="nerd_spotify_remote">Il suono arriva da un altro dispositivo: questo telefono si limita a comandarlo.</string>
     <string name="nerd_automix">AutoMix</string>
     <string name="nerd_automix_blend">Mix a tempo</string>

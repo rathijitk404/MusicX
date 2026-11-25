@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Követett előadók</string>
     <string name="local_files_title" formatted="false">Helyi fájlok</string>
     <string name="local_files_empty_section_title" formatted="false">Add hozzá a saját hangfájljaidat a Gyűjteményedhez</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Van egy olyan dalod vagy személyes podcastod, amely még nem található meg a Spotifyon?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Van egy olyan dalod vagy személyes podcastod, amely még nem található meg a SpotiXon?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">A hangfájljaid itt fognak megjelenni</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Engedélyezés</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Beállítások megnyitása</string>

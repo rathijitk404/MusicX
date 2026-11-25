@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">已關注藝人</string>
     <string name="local_files_title" formatted="false">本機檔案</string>
     <string name="local_files_empty_section_title" formatted="false">將你自己的音訊檔案新增至「你的音樂庫」</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">你有不在 Spotify 上的歌曲或個人 Podcast 嗎？</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">你有不在 SpotiX 上的歌曲或個人 Podcast 嗎？</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">你的音訊檔案會在這裡顯示</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">允許存取</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">前往「設定」</string>

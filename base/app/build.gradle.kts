@@ -32,15 +32,15 @@ android {
     compileSdk = 37
 
     // Two channels that install side by side: betas ("2.0.0-beta.3") stay "app.myspoti",
-    // signed with the first key, as "Myspoti Beta"; releases are "app.myspoti.stable",
-    // signed with their own key, as "Myspoti".
+    // signed with the first key, as "SpotiX Beta"; releases are "app.myspoti.stable",
+    // signed with their own key, as "SpotiX".
     // Local builds (no version given) are on the beta side, like the phone test builds.
     val version = (findProperty("appVersionName") as String?) ?: "2.4.0"
     // "-beta" as in UpdateChecker.isBeta, one predicate for the app id, the label and the log stripping.
     val beta = findProperty("appVersionName") == null || version.contains("-beta")
     defaultConfig {
         applicationId = if (automixLab) "app.myspoti.automixlab" else if (beta) "app.myspoti" else "app.myspoti.stable"
-        manifestPlaceholders["appLabel"] = if (automixLab) "Myspoti Mix Lab" else if (beta) "Myspoti Beta" else "Myspoti"
+        manifestPlaceholders["appLabel"] = if (automixLab) "SpotiX Mix Lab" else if (beta) "SpotiX Beta" else "SpotiX"
         // The adb command line (com.music.spotui.cli): betas and debug builds only.
         manifestPlaceholders["cliEnabled"] = beta.toString()
         minSdk = 29
@@ -90,7 +90,7 @@ android {
         debug {
             // Installs next to the release apps (own data, own sign-in).
             if (!automixLab) applicationIdSuffix = ".dev"
-            manifestPlaceholders["appLabel"] = if (automixLab) "Myspoti Mix Lab" else "Myspoti dev"
+            manifestPlaceholders["appLabel"] = if (automixLab) "SpotiX Mix Lab" else "SpotiX dev"
             manifestPlaceholders["cliEnabled"] = "true"
         }
         release {
@@ -101,7 +101,7 @@ android {
             // beta on the test phone without replacing the signed beta installed there.
             if (findProperty("overDev") != null && !automixLab) {
                 applicationIdSuffix = ".dev"
-                manifestPlaceholders["appLabel"] = "Myspoti dev"
+                manifestPlaceholders["appLabel"] = "SpotiX dev"
             }
             isMinifyEnabled = true
             isShrinkResources = true
@@ -222,7 +222,7 @@ tasks.register("collectApks") {
     mustRunAfter("assembleRelease")
     val version = (findProperty("appVersionName") as String?) ?: "2.4.0"
     val beta = findProperty("appVersionName") == null || version.contains("-beta")
-    val app = when { findProperty("overDev") != null -> "Myspoti-dev"; beta -> "Myspoti-Beta"; else -> "Myspoti" }
+    val app = when { findProperty("overDev") != null -> "Myspoti-dev"; beta -> "Myspoti-Beta"; else -> "SpotiX" }
     // Copies: the configuration cache cannot keep a reference to the script's own values.
     val abis = RELEASE_ABIS.toList()
     val abiNames = ABI_NAMES.toMap()

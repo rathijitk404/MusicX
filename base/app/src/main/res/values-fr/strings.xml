@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">Myspoti</string>
+    <string name="app_name">SpotiX</string>
     <string name="aa_playlists">Playlists</string>
     <string name="aa_albums">Albums</string>
     <string name="aa_artists">Artistes</string>
@@ -20,8 +20,8 @@
     <string name="video_fullscreen_enter" tools:ignore="MissingTranslation">Plein écran</string>
     <string name="video_fullscreen_exit" tools:ignore="MissingTranslation">Quitter le plein écran</string>
     <string name="playback_seek_description" tools:ignore="MissingTranslation">Position de lecture</string>
-    <string name="account_page_title">Compte Spotify</string>
+    <string name="account_page_title">Compte SpotiX</string>
     <string name="account_page_detail">Abonnement, confidentialité et appareils, sur spotify.com</string>
     <string name="player_source_downloaded">Téléchargé</string>
-    <string name="extension_change_write">Peut aussi envoyer à Spotify : %1$s</string>
+    <string name="extension_change_write">Peut aussi envoyer à SpotiX : %1$s</string>
 </resources>

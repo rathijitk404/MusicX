@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">ศิลปินที่ติดตาม</string>
     <string name="local_files_title" formatted="false">ไฟล์ในเครื่อง</string>
     <string name="local_files_empty_section_title" formatted="false">เพิ่มไฟล์เสียงลงในคอลเลกชันของคุณ</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">หากอยากได้เพลงหรือพอดแคสต์ส่วนตัวที่ไม่มีบน Spotify</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">หากอยากได้เพลงหรือพอดแคสต์ส่วนตัวที่ไม่มีบน SpotiX</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">ไฟล์เสียงของคุณจะปรากฏที่นี่</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">อนุญาตการเข้าถึง</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">ไปที่การตั้งค่า</string>

@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">பின்தொடரும் கலைஞர்கள்</string>
     <string name="local_files_title" formatted="false">சாதனத்திலுள்ள கோப்புகள்</string>
     <string name="local_files_empty_section_title" formatted="false">உங்கள் லைப்ரரி பிரிவில் உங்களின் சொந்த ஆடியோ கோப்புகளைச் சேருங்கள்</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Spotifyயில் இல்லாத பாடலோ தனிப்பட்ட பாட்காஸ்ட்டோ உங்களிடம் உள்ளதா?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">SpotiXயில் இல்லாத பாடலோ தனிப்பட்ட பாட்காஸ்ட்டோ உங்களிடம் உள்ளதா?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">உங்கள் ஆடியோ கோப்புகள் இங்கே காட்டப்படும்</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">அணுகலை வழங்கு</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">அமைப்புகளுக்குச் செல்</string>

@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Следени изведувачи</string>
     <string name="local_files_title" formatted="false">Локални датотеки</string>
     <string name="local_files_empty_section_title" formatted="false">Додавај свои аудиодатотеки во „Твојата збирка“</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Имаш песна или личен поткаст што не е на Spotify?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Имаш песна или личен поткаст што не е на SpotiX?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Аудиодатотеките ќе се прикажат тука</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Дај пристап</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Појди до „Поставки“</string>

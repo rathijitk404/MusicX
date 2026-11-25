@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">આર્ટિસ્ટને ફોલો કર્યું</string>
     <string name="local_files_title" formatted="false">સ્થાનિક ફાઇલો</string>
     <string name="local_files_empty_section_title" formatted="false">તમારી પોતાની ઓડિયો ફાઇલ તમારી લાઇબ્રેરીમાં ઉમેરો</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">એવું કોઈ ગીત કે પર્સનલ પોડકાસ્ટ મળ્યું છે જે Spotify પર ન હોય?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">એવું કોઈ ગીત કે પર્સનલ પોડકાસ્ટ મળ્યું છે જે SpotiX પર ન હોય?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">તમારી બધી ઓડિયો ફાઇલ અહીં દેખાશે</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">એક્સેસ આપો</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">સેટિંગ પર જાઓ</string>

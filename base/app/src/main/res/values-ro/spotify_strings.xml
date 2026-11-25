@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Artiști urmăriți</string>
     <string name="local_files_title" formatted="false">Fișiere locale</string>
     <string name="local_files_empty_section_title" formatted="false">Adaugă propriile fișiere audio în Biblioteca ta</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Ai o melodie sau un podcast personal care nu este pe Spotify?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Ai o melodie sau un podcast personal care nu este pe SpotiX?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Fișierele tale audio vor apărea aici</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Permite accesul</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Mergi la Setări</string>

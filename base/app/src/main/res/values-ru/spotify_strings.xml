@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Подписки на исполнителей</string>
     <string name="local_files_title" formatted="false">Добавленные файлы</string>
     <string name="local_files_empty_section_title" formatted="false">Добавь файлы со своего устройства в медиатеку</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Хочешь добавить трек или подкаст, которого нет в Spotify?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Хочешь добавить трек или подкаст, которого нет в SpotiX?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Аудиофайлы появятся здесь</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Разрешить доступ</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Перейти в настройки</string>

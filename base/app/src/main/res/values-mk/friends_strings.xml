@@ -2,7 +2,7 @@
 <resources>
     <string name="friends_title">Активност на пријатели</string>
     <string name="friends_now">Сега</string>
-    <string name="friends_empty">Сè уште нема активност на пријатели. Тука се прикажуваат пријателите што ги следите и што споделуваат што слушаат на Spotify.</string>
-    <string name="friends_failed">Spotify не ја испрати активноста на пријателите.</string>
+    <string name="friends_empty">Сè уште нема активност на пријатели. Тука се прикажуваат пријателите што ги следите и што споделуваат што слушаат на SpotiX.</string>
+    <string name="friends_failed">SpotiX не ја испрати активноста на пријателите.</string>
     <string name="friends_refresh">Освежи</string>
 </resources>

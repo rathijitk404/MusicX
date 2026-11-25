@@ -4,7 +4,7 @@
     <string name="sources_download_title">מקורות הורדה</string>
     <string name="sources_audio_footer">נשאלים מלמעלה למטה לכל שיר: הראשון שיש לו אותו מנגן אותו. השתמשו בחצים כדי לשנות את הסדר.</string>
     <string name="sources_download_footer">נשאלים מלמעלה למטה: המקור הראשון שיש לו את השיר מספק את הקובץ. השתמשו בחצים כדי לשנות את הסדר.</string>
-    <string name="sources_spotify">Spotify</string>
+    <string name="sources_spotify">SpotiX</string>
     <string name="sources_spotify_detail">מנגן כשאף מקור שמעליו אינו מכיל את השיר</string>
     <string name="sources_ready">מוכן</string>
     <string name="sources_details_show">הצג פרטים</string>
@@ -13,5 +13,5 @@
     <string name="sources_last_used">אחרון: %1$s, %2$s</string>
     <string name="sources_open">פתח את התוסף</string>
     <string name="sources_order_hint">המקורות נשאלים לפי הסדר שנקבע בהגדרות (ניגון, הורדות).</string>
-    <string name="sources_below_spotify">לא נשאל: Spotify למעלה</string>
+    <string name="sources_below_spotify">לא נשאל: SpotiX למעלה</string>
 </resources>
