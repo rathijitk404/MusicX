@@ -116,6 +116,10 @@ fun WelcomeScreen(onLogin: () -> Unit) {
                 horizontalAlignment = Alignment.CenterHorizontally,
                 modifier = Modifier.fillMaxWidth().align(Alignment.BottomCenter).rise(3),
             ) {
+                Text("DEVELOPED WITH PASSION", color = AppText.copy(alpha = 0.5f), fontFamily = AppSans,
+                    fontWeight = FontWeight.Bold, fontSize = 12.sp, letterSpacing = 2.sp)
+                Text("Created by \uD800\uDC82Rathijitk~", color = AppText, fontFamily = AppSans,
+                    fontWeight = FontWeight.Bold, fontSize = 18.sp, modifier = Modifier.padding(top = 8.dp, bottom = 40.dp))
                 // A TV remote: the button takes the focus at once and shows it (a white ring); a
                 // focus with no look left nothing on screen to say what OK would do.
                 val ctx = androidx.compose.ui.platform.LocalContext.current

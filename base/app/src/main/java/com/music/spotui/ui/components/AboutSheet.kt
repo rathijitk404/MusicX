@@ -53,6 +53,7 @@ private fun openUrl(context: Context, url: String) {
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun AboutSheet(onDismiss: () -> Unit) {
+    val context = LocalContext.current
     com.music.spotui.extensions.ProtectedSurfaceEffect(app.myspoti.extensions.ProtectedSurface.ABOUT)
     LookSheet(
         onDismissRequest = onDismiss,
@@ -63,14 +64,19 @@ fun AboutSheet(onDismiss: () -> Unit) {
             Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.padding(horizontal = 20.dp)) {
                 Image(
                     painterResource(R.drawable.ic_launcher_foreground), contentDescription = null,
-                    modifier = Modifier.size(56.dp).clip(RoundedCornerShape(14.dp)).background(tone(0xFFFFFFFF)),
+                    modifier = Modifier.size(56.dp).clip(RoundedCornerShape(14.dp)).background(tone(0xFF000000)),
                 )
                 Column(Modifier.padding(start = 14.dp)) {
                     Text("SpotiX", color = AppText, fontSize = 20.sp, fontWeight = FontWeight.Bold)
                     Text(BuildConfig.VERSION_NAME, color = AppMuted, fontSize = 13.sp)
                 }
             }
-            Column(Modifier.fillMaxWidth().padding(top = 36.dp), horizontalAlignment = Alignment.CenterHorizontally) {
+            Text("SpotiX is made by RYÚK ZÉRÖ (Rathijit Karmakar).", color = AppMuted, fontSize = 13.sp,
+                modifier = Modifier.padding(start = 20.dp, end = 20.dp, top = 12.dp, bottom = 8.dp))
+            AboutRow("Instagram", "@rathijitk_zero") { openUrl(context, "https://instagram.com/rathijitk_zero") }
+            AboutRow("GitHub", "rathijitk404") { openUrl(context, "https://github.com/rathijitk404") }
+            AboutRow("Source code", "SpotiX on GitHub") { openUrl(context, "https://github.com/rathijitk404/MusicX") }
+            Column(Modifier.fillMaxWidth().padding(top = 44.dp), horizontalAlignment = Alignment.CenterHorizontally) {
                 Text("DEVELOPED WITH PASSION", color = AppMuted, fontSize = 12.sp, fontWeight = FontWeight.Bold,
                     letterSpacing = 2.sp)
                 Text("Created by \uD800\uDC82Rathijitk~", color = AppText, fontSize = 18.sp, fontWeight = FontWeight.Bold,
