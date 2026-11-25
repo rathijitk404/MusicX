@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">팔로우한 아티스트</string>
     <string name="local_files_title" formatted="false">로컬 파일</string>
     <string name="local_files_empty_section_title" formatted="false">갖고 있는 오디오 파일을 내 라이브러리에 추가하세요</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Spotify에서 제공하지 않는 곡 또는 개인 팟캐스트를 가지고 계신가요?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">SpotiX에서 제공하지 않는 곡 또는 개인 팟캐스트를 가지고 계신가요?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">내 오디오 파일이 여기에 표시됩니다</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">액세스 권한 부여</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">설정으로 이동</string>

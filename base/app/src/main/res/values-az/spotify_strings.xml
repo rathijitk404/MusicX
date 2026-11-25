@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">İzlənilən ifaçılar</string>
     <string name="local_files_title" formatted="false">Lokal Fayllar</string>
     <string name="local_files_empty_section_title" formatted="false">Öz audiofayllarınızı Kitabxana bölməsinə əlavə edin</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Spotify-da olmayan mahnı və ya şəxsi podkastınız var?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">SpotiX-da olmayan mahnı və ya şəxsi podkastınız var?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Audiofayllarınız burada görünəcək</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Giriş icazəsi ver</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Parametrlərə keç</string>

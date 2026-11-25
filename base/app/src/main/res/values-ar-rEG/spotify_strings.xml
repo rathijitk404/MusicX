@@ -58,7 +58,7 @@
     <string name="context_type_description_artist" formatted="false">الاستماع من \"الفنان\"</string>
     <string name="context_type_description_show" formatted="false">سماع من البودكاست</string>
     <string name="context_type_description_search" formatted="false">الاستماع من \"البحث\"</string>
-    <string name="default_notification_channel_name" formatted="false">Spotify</string>
+    <string name="default_notification_channel_name" formatted="false">SpotiX</string>
     <string name="label_bluetooth" formatted="false">Bluetooth</string>
     <string name="action_share_label" formatted="false">مشاركة</string>
     <string name="action_queue_label" formatted="false">قايمة السماع</string>
@@ -104,7 +104,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">فنانين بتتابعهم</string>
     <string name="local_files_title" formatted="false">الملفات</string>
     <string name="local_files_empty_section_title" formatted="false">إضافة الملفات الصوتية بتاعتك لمكتبتك الموسيقية</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">عندك أغنية أو بودكاست شخصي مش موجود على Spotify؟</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">عندك أغنية أو بودكاست شخصي مش موجود على SpotiX؟</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">ملفاتك الصوتية هتظهر هنا</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">سماح بالدخول</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">انتقل للإعدادات</string>

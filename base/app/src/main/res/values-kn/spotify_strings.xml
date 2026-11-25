@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">ಕಲಾವಿದರನ್ನು ಫಾಲೋ ಮಾಡಲಾಗಿದೆ</string>
     <string name="local_files_title" formatted="false">ಲೋಕಲ್ ಫೈಲ್‌ಗಳು</string>
     <string name="local_files_empty_section_title" formatted="false">ನಿಮ್ಮ ಸ್ವಂತ ಆಡಿಯೋ ಫೈಲ್‌ಗಳನ್ನು ನಿಮ್ಮ ಲೈಬ್ರರಿಗೆ ಸೇರಿಸಿ</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Spotify ನಲ್ಲಿ ಇಲ್ಲದ ಹಾಡು ಅಥವಾ ವೈಯಕ್ತಿಕ ಪಾಡ್‌ಕಾಸ್ಟ್ ಯಾವುದಾದರೂ ಇದೆಯೇ?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">SpotiX ನಲ್ಲಿ ಇಲ್ಲದ ಹಾಡು ಅಥವಾ ವೈಯಕ್ತಿಕ ಪಾಡ್‌ಕಾಸ್ಟ್ ಯಾವುದಾದರೂ ಇದೆಯೇ?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">ನಿಮ್ಮ ಆಡಿಯೋ ಫೈಲ್‌ಗಳು ಇಲ್ಲಿ ಗೋಚರಿಸುತ್ತವೆ</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">ಆ್ಯಕ್ಸೆಸ್ ನೀಡಿ</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಹೋಗಿ</string>

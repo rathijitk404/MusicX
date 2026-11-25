@@ -58,7 +58,7 @@
     <string name="context_type_description_artist" formatted="false">ਕਲਾਕਾਰ ਤੋਂ ਚਲਾਇਆ ਜਾ ਰਿਹਾ ਹੈ</string>
     <string name="context_type_description_show" formatted="false">ਪੋਡਕਾਸਟ ਤੋਂ ਚਲਾਉਣਾ</string>
     <string name="context_type_description_search" formatted="false">ਖੋਜੋ ਤੋਂ ਚਲਾਇਆ ਜਾ ਰਿਹਾ ਹੈ</string>
-    <string name="default_notification_channel_name" formatted="false">Spotify</string>
+    <string name="default_notification_channel_name" formatted="false">SpotiX</string>
     <string name="label_bluetooth" formatted="false">ਬਲੂਟੁੱਥ</string>
     <string name="action_share_label" formatted="false">ਸਾਂਝਾ ਕਰੋ</string>
     <string name="action_queue_label" formatted="false">ਕਤਾਰ</string>
@@ -104,7 +104,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">ਕਲਾਕਾਰਾਂ ਨੂੰ ਫਾਲੋ ਕੀਤਾ ਗਿਆ</string>
     <string name="local_files_title" formatted="false">ਸਥਾਨਕ ਫਾਈਲਾਂ</string>
     <string name="local_files_empty_section_title" formatted="false">ਆਪਣੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਆਪਣੀਆਂ ਖੁਦ ਦੀਆਂ ਆਡੀਓ ਫਾਈਲਾਂ ਸ਼ਾਮਲ ਕਰੋ</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਅਜਿਹਾ ਗਾਣਾ ਜਾਂ ਨਿੱਜੀ ਪੋਡਕਾਸਟ ਹੈ ਜੋ Spotify \'ਤੇ ਮੌਜੂਦ ਨਹੀਂ ਹੈ?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਅਜਿਹਾ ਗਾਣਾ ਜਾਂ ਨਿੱਜੀ ਪੋਡਕਾਸਟ ਹੈ ਜੋ SpotiX \'ਤੇ ਮੌਜੂਦ ਨਹੀਂ ਹੈ?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">ਤੁਹਾਡੀਆਂ ਆਡੀਓ ਫਾਈਲਾਂ ਇੱਥੇ ਦਿਖਾਈ ਦੇਣਗੀਆਂ</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">ਪਹੁੰਚ ਦਿਓ</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">ਸੈਟਿੰਗਾਂ \'ਤੇ ਜਾਓ</string>

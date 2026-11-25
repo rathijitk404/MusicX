@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">የተከተሏቸው አርቲስቶች</string>
     <string name="local_files_title" formatted="false">አካባቢያዊ ፋይሎች</string>
     <string name="local_files_empty_section_title" formatted="false">የራስዎን የኦዲዮ ፋይሎች ወደ የእርስዎ ቤተ-ሙዚቃ ያክሉ</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Spotify ላይ የሌለ ሙዚቃ ወይም የግል ፖድካስት አግኝተዋል?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">SpotiX ላይ የሌለ ሙዚቃ ወይም የግል ፖድካስት አግኝተዋል?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">የእርስዎ የኦዲዮ ፋይሎች እዚህ ይታያሉ</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">ማግኛ ፈቃድ ይስጡ</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">ወደ ቅንብሮች ይሂዱ</string>

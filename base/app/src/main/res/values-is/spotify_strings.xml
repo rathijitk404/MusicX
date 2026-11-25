@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Flytjendur sem þú fylgist með</string>
     <string name="local_files_title" formatted="false">Staðbundnar skrár</string>
     <string name="local_files_empty_section_title" formatted="false">Bættu eigin hljóðskrám í safnið þitt</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Ertu með lag eða eigið hlaðvarp sem er ekki á Spotify?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Ertu með lag eða eigið hlaðvarp sem er ekki á SpotiX?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Hljóðskrárnar þínar birtast hér</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Veita aðgang</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Áfram í stillingar</string>

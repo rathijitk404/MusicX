@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Izpildītāji, kam sekoju</string>
     <string name="local_files_title" formatted="false">Vietējie faili</string>
     <string name="local_files_empty_section_title" formatted="false">Pievieno savus audio failus mapē Tava bibliotēka</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Vai tev ir dziesma vai personīgais raidieraksts, kas nav pieejams Spotify?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Vai tev ir dziesma vai personīgais raidieraksts, kas nav pieejams SpotiX?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Tavi audio faili tiks parādīti šeit</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Piešķirt piekļuvi</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Atvērt iestatījumus</string>

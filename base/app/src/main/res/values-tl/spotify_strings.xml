@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Mga fina-follow na artist</string>
     <string name="local_files_title" formatted="false">Mga Local File</string>
     <string name="local_files_empty_section_title" formatted="false">Magdagdag ng sarili mong mga audio file sa Library Mo</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">May kanta o personal na podcast na wala sa Spotify?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">May kanta o personal na podcast na wala sa SpotiX?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Dito lalabas ang mga audio file mo</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Bigyan ng access</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Pumunta sa Settings</string>

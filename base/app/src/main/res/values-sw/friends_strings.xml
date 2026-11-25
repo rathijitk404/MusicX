@@ -2,7 +2,7 @@
 <resources>
     <string name="friends_title">Shughuli za marafiki</string>
     <string name="friends_now">Sasa</string>
-    <string name="friends_empty">Bado hakuna shughuli za marafiki. Marafiki unaowafuata wanaoshiriki shughuli zao za kusikiliza kwenye Spotify wataonekana hapa.</string>
-    <string name="friends_failed">Spotify haikutuma shughuli za marafiki.</string>
+    <string name="friends_empty">Bado hakuna shughuli za marafiki. Marafiki unaowafuata wanaoshiriki shughuli zao za kusikiliza kwenye SpotiX wataonekana hapa.</string>
+    <string name="friends_failed">SpotiX haikutuma shughuli za marafiki.</string>
     <string name="friends_refresh">Onyesha upya</string>
 </resources>

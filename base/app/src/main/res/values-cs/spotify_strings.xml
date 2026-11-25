@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Sledovaní umělci</string>
     <string name="local_files_title" formatted="false">Místní soubory</string>
     <string name="local_files_empty_section_title" formatted="false">Přidej si do sbírky Tvoje knihovna vlastní zvukové soubory</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Máš skladbu nebo osobní podcast, které nejsou ve Spotify?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Máš skladbu nebo osobní podcast, které nejsou ve SpotiX?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Tvoje zvukové soubory se zobrazí tady</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Povolit přístup</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Přejít do nastavení</string>

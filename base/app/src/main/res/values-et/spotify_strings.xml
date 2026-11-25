@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Jälgiti artiste</string>
     <string name="local_files_title" formatted="false">Kohalikud failid</string>
     <string name="local_files_empty_section_title" formatted="false">Lisa enda helifailid oma teeki</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Kas sul on mõni laul või isiklik netisaade, mida Spotifys pole?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Kas sul on mõni laul või isiklik netisaade, mida SpotiXs pole?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Sinu helifailid kuvatakse siin</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Anna juurdepääs</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Ava sätted</string>

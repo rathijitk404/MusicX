@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="nerd_title">Statistiken für Nerds</string>
-    <string name="nerd_section_exo">Myspoti-Player (ExoPlayer)</string>
-    <string name="nerd_section_spotify">Spotify (Web-Player)</string>
+    <string name="nerd_section_exo">SpotiX-Player (ExoPlayer)</string>
+    <string name="nerd_section_spotify">SpotiX (Web-Player)</string>
     <string name="nerd_source">Quelle</string>
     <string name="nerd_source_extension">Erweiterung: %1$s</string>
     <string name="nerd_source_extension_waiting">Eine Erweiterung (noch keine Antwort)</string>
@@ -48,11 +48,11 @@
     <string name="nerd_requested">Von der Seite angefordert</string>
     <string name="nerd_page_reports">Von der Seite angegeben</string>
     <string name="nerd_page_reports_none">Noch nichts gemeldet</string>
-    <string name="nerd_mirror">Spotify-Spiegel</string>
-    <string name="nerd_mirror_on">An: Spotify spielt diesen Titel unhörbar in der niedrigsten Qualität ab, zählt ihn also und Connect sieht ihn</string>
-    <string name="nerd_mirror_extension">An, gehalten von %1$s: Spotify spielt unhörbar ab</string>
+    <string name="nerd_mirror">SpotiX-Spiegel</string>
+    <string name="nerd_mirror_on">An: SpotiX spielt diesen Titel unhörbar in der niedrigsten Qualität ab, zählt ihn also und Connect sieht ihn</string>
+    <string name="nerd_mirror_extension">An, gehalten von %1$s: SpotiX spielt unhörbar ab</string>
     <string name="nerd_mirror_off">Aus</string>
-    <string name="nerd_spotify_note">Der Spotify-Stream ist in der Seite verschlüsselt: Sein genauer Codec und seine Bitrate sind nicht zugänglich, nur das, was die Seite angibt.</string>
+    <string name="nerd_spotify_note">Der SpotiX-Stream ist in der Seite verschlüsselt: Sein genauer Codec und seine Bitrate sind nicht zugänglich, nur das, was die Seite angibt.</string>
     <string name="nerd_spotify_remote">Der Klang kommt von einem anderen Gerät: Dieses Telefon steuert es nur.</string>
     <string name="nerd_automix">AutoMix</string>
     <string name="nerd_automix_blend">Beatgenaue Blende</string>

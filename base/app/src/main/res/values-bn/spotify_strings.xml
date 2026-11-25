@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">শিল্পীকে ফলো করা হয়েছে</string>
     <string name="local_files_title" formatted="false">লোকাল ফাইল</string>
     <string name="local_files_empty_section_title" formatted="false">আপনার নিজের অডিও ফাইল \'আপনার লাইব্রেরি\'-তে যোগ করুন</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">এমন কোনও গান বা ব্যক্তিগত পডকাস্ট আছে যা Spotify-তে নেই?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">এমন কোনও গান বা ব্যক্তিগত পডকাস্ট আছে যা SpotiX-তে নেই?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">আপনার অডিও ফাইল এখানে দেখা যাবে</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">অ্যাক্সেস দিন</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">সেটিংস-এ যান</string>

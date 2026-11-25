@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="nerd_title">Στατιστικά για σπασίκλες</string>
-    <string name="nerd_section_exo">Player Myspoti (ExoPlayer)</string>
-    <string name="nerd_section_spotify">Spotify (web player)</string>
+    <string name="nerd_section_exo">Player SpotiX (ExoPlayer)</string>
+    <string name="nerd_section_spotify">SpotiX (web player)</string>
     <string name="nerd_source">Πηγή</string>
     <string name="nerd_source_extension">Επέκταση: %1$s</string>
     <string name="nerd_source_extension_waiting">Μια επέκταση (δεν έχει απαντήσει ακόμη)</string>
@@ -48,11 +48,11 @@
     <string name="nerd_requested">Ζητήθηκε από τη σελίδα</string>
     <string name="nerd_page_reports">Δηλώνεται από τη σελίδα</string>
     <string name="nerd_page_reports_none">Δεν έχει αναφερθεί τίποτα ακόμη</string>
-    <string name="nerd_mirror">Καθρέφτης Spotify</string>
-    <string name="nerd_mirror_on">Ενεργός: το Spotify παίζει αυτό το κομμάτι χωρίς να ακούγεται, στη χαμηλότερη ποιότητά του, οπότε το καταμετρά και το Connect το βλέπει</string>
-    <string name="nerd_mirror_extension">Ενεργός, διατηρείται από %1$s: το Spotify παίζει χωρίς να ακούγεται</string>
+    <string name="nerd_mirror">Καθρέφτης SpotiX</string>
+    <string name="nerd_mirror_on">Ενεργός: το SpotiX παίζει αυτό το κομμάτι χωρίς να ακούγεται, στη χαμηλότερη ποιότητά του, οπότε το καταμετρά και το Connect το βλέπει</string>
+    <string name="nerd_mirror_extension">Ενεργός, διατηρείται από %1$s: το SpotiX παίζει χωρίς να ακούγεται</string>
     <string name="nerd_mirror_off">Ανενεργός</string>
-    <string name="nerd_spotify_note">Η ροή του Spotify είναι κρυπτογραφημένη μέσα στη σελίδα: ο ακριβής κωδικοποιητής και ο ρυθμός bit της δεν είναι προσβάσιμοι, μόνο όσα δηλώνει η σελίδα.</string>
+    <string name="nerd_spotify_note">Η ροή του SpotiX είναι κρυπτογραφημένη μέσα στη σελίδα: ο ακριβής κωδικοποιητής και ο ρυθμός bit της δεν είναι προσβάσιμοι, μόνο όσα δηλώνει η σελίδα.</string>
     <string name="nerd_spotify_remote">Ο ήχος προέρχεται από άλλη συσκευή: αυτό το τηλέφωνο απλώς την ελέγχει.</string>
     <string name="nerd_automix">AutoMix</string>
     <string name="nerd_automix_blend">Μίξη στο beat</string>

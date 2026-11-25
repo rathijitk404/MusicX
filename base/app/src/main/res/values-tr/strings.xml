@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Myspoti</string>
+    <string name="app_name">SpotiX</string>
     <string name="aa_playlists">Çalma listeleri</string>
     <string name="aa_albums">Albümler</string>
     <string name="aa_artists">Sanatçılar</string>
@@ -20,7 +20,7 @@
     <string name="video_fullscreen_enter">Tam ekran</string>
     <string name="video_fullscreen_exit">Tam ekrandan çık</string>
     <string name="playback_seek_description">Oynatma konumu</string>
-    <string name="account_page_title">Spotify hesabı</string>
+    <string name="account_page_title">SpotiX hesabı</string>
     <string name="account_page_detail">Plan, gizlilik ve cihazlar, spotify.com üzerinden</string>
-    <string name="extension_change_write">Artık Spotify\'a da gönderebilir: %1$s</string>
+    <string name="extension_change_write">Artık SpotiX\'a da gönderebilir: %1$s</string>
 </resources>

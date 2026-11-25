@@ -2,8 +2,8 @@
 <!-- "Stats for nerds": what the player knows of the sound, live while the sheet is open (EN). -->
 <resources>
     <string name="nerd_title">Stats for nerds</string>
-    <string name="nerd_section_exo">Myspoti player (ExoPlayer)</string>
-    <string name="nerd_section_spotify">Spotify (Web Player)</string>
+    <string name="nerd_section_exo">SpotiX player (ExoPlayer)</string>
+    <string name="nerd_section_spotify">SpotiX (Web Player)</string>
     <string name="nerd_source">Source</string>
     <string name="nerd_source_extension">Extension: %1$s</string>
     <string name="nerd_source_extension_waiting">An extension (not answered yet)</string>
@@ -49,11 +49,11 @@
     <string name="nerd_requested">Requested from the page</string>
     <string name="nerd_page_reports">Announced by the page</string>
     <string name="nerd_page_reports_none">Nothing reported yet</string>
-    <string name="nerd_mirror">Spotify mirror</string>
-    <string name="nerd_mirror_on">On: Spotify plays this song unheard at its lowest quality, so it counts it and Connect sees it</string>
-    <string name="nerd_mirror_extension">On, kept by %1$s: Spotify plays unheard</string>
+    <string name="nerd_mirror">SpotiX mirror</string>
+    <string name="nerd_mirror_on">On: SpotiX plays this song unheard at its lowest quality, so it counts it and Connect sees it</string>
+    <string name="nerd_mirror_extension">On, kept by %1$s: SpotiX plays unheard</string>
     <string name="nerd_mirror_off">Off</string>
-    <string name="nerd_spotify_note">The Spotify stream is encrypted inside the page: its exact codec and bit rate are not accessible, only what the page announces.</string>
+    <string name="nerd_spotify_note">The SpotiX stream is encrypted inside the page: its exact codec and bit rate are not accessible, only what the page announces.</string>
     <string name="nerd_spotify_remote">The sound comes from another device: this phone only commands it.</string>
     <string name="nerd_automix">AutoMix</string>
     <string name="nerd_automix_blend">Beat-matched blend</string>

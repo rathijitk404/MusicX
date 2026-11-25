@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="nerd_title">Estadísticas para nerds</string>
-    <string name="nerd_section_exo">Reproductor de Myspoti (ExoPlayer)</string>
-    <string name="nerd_section_spotify">Spotify (reproductor web)</string>
+    <string name="nerd_section_exo">Reproductor de SpotiX (ExoPlayer)</string>
+    <string name="nerd_section_spotify">SpotiX (reproductor web)</string>
     <string name="nerd_source">Fuente</string>
     <string name="nerd_source_extension">Extensión: %1$s</string>
     <string name="nerd_source_extension_waiting">Una extensión (aún sin respuesta)</string>
@@ -48,11 +48,11 @@
     <string name="nerd_requested">Solicitado a la página</string>
     <string name="nerd_page_reports">Anunciado por la página</string>
     <string name="nerd_page_reports_none">Nada informado aún</string>
-    <string name="nerd_mirror">Espejo de Spotify</string>
-    <string name="nerd_mirror_on">Activado: Spotify reproduce esta canción sin que se oiga, a su calidad más baja, así que la cuenta y Connect la ve</string>
-    <string name="nerd_mirror_extension">Activado, mantenido por %1$s: Spotify reproduce sin que se oiga</string>
+    <string name="nerd_mirror">Espejo de SpotiX</string>
+    <string name="nerd_mirror_on">Activado: SpotiX reproduce esta canción sin que se oiga, a su calidad más baja, así que la cuenta y Connect la ve</string>
+    <string name="nerd_mirror_extension">Activado, mantenido por %1$s: SpotiX reproduce sin que se oiga</string>
     <string name="nerd_mirror_off">Desactivado</string>
-    <string name="nerd_spotify_note">El flujo de Spotify está cifrado dentro de la página: su códec y tasa de bits exactos no son accesibles, solo lo que la página anuncia.</string>
+    <string name="nerd_spotify_note">El flujo de SpotiX está cifrado dentro de la página: su códec y tasa de bits exactos no son accesibles, solo lo que la página anuncia.</string>
     <string name="nerd_spotify_remote">El sonido viene de otro dispositivo: este teléfono solo lo controla.</string>
     <string name="nerd_automix">AutoMix</string>
     <string name="nerd_automix_blend">Mezcla al ritmo</string>

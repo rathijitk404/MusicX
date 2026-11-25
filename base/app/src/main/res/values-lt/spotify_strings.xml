@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Stebimi atlikėjai</string>
     <string name="local_files_title" formatted="false">Failai šiame įrenginyje</string>
     <string name="local_files_empty_section_title" formatted="false">Įtrauk savo garso failus į aplanką „Mano biblioteka“</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Turi dainą ar asmeninę tinklalaidę, kurios nėra „Spotify“?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Turi dainą ar asmeninę tinklalaidę, kurios nėra „SpotiX“?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Tavo garso failai bus rodomi čia</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Suteikti prieigą</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Eiti į nustatymus</string>

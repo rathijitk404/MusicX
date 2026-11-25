@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="nerd_title">Statystyki dla nerdów</string>
-    <string name="nerd_section_exo">Odtwarzacz Myspoti (ExoPlayer)</string>
-    <string name="nerd_section_spotify">Spotify (odtwarzacz internetowy)</string>
+    <string name="nerd_section_exo">Odtwarzacz SpotiX (ExoPlayer)</string>
+    <string name="nerd_section_spotify">SpotiX (odtwarzacz internetowy)</string>
     <string name="nerd_source">Źródło</string>
     <string name="nerd_source_extension">Rozszerzenie: %1$s</string>
     <string name="nerd_source_extension_waiting">Rozszerzenie (jeszcze nie odpowiedziało)</string>
@@ -48,11 +48,11 @@
     <string name="nerd_requested">Zażądano od strony</string>
     <string name="nerd_page_reports">Podane przez stronę</string>
     <string name="nerd_page_reports_none">Nic jeszcze nie zgłoszono</string>
-    <string name="nerd_mirror">Lustro Spotify</string>
-    <string name="nerd_mirror_on">Włączone: Spotify odtwarza ten utwór niesłyszalnie w najniższej jakości, więc go liczy, a Connect go widzi</string>
-    <string name="nerd_mirror_extension">Włączone, utrzymywane przez %1$s: Spotify odtwarza niesłyszalnie</string>
+    <string name="nerd_mirror">Lustro SpotiX</string>
+    <string name="nerd_mirror_on">Włączone: SpotiX odtwarza ten utwór niesłyszalnie w najniższej jakości, więc go liczy, a Connect go widzi</string>
+    <string name="nerd_mirror_extension">Włączone, utrzymywane przez %1$s: SpotiX odtwarza niesłyszalnie</string>
     <string name="nerd_mirror_off">Wyłączone</string>
-    <string name="nerd_spotify_note">Strumień Spotify jest zaszyfrowany wewnątrz strony: jego dokładny kodek i przepływność są niedostępne, tylko to, co podaje strona.</string>
+    <string name="nerd_spotify_note">Strumień SpotiX jest zaszyfrowany wewnątrz strony: jego dokładny kodek i przepływność są niedostępne, tylko to, co podaje strona.</string>
     <string name="nerd_spotify_remote">Dźwięk pochodzi z innego urządzenia: ten telefon tylko nim steruje.</string>
     <string name="nerd_automix">AutoMix</string>
     <string name="nerd_automix_blend">Miks zgrany z bitem</string>

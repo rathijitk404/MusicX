@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Jarraitutako artistak</string>
     <string name="local_files_title" formatted="false">Fitxategi lokalak</string>
     <string name="local_files_empty_section_title" formatted="false">Gehitu gailuko audio-fitxategiak Liburutegian</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Spotify-n ez dauden abesti edo podcast pertsonalak dauzkazu?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">SpotiX-n ez dauden abesti edo podcast pertsonalak dauzkazu?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Gailuko audio-fitxategiak hemen agertuko dira</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Eman sarbidea</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Joan ezarpenetara</string>

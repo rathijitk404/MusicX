@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Καλλιτέχνες που ακολουθείς</string>
     <string name="local_files_title" formatted="false">Τοπικά αρχεία</string>
     <string name="local_files_empty_section_title" formatted="false">Πρόσθεσε τα δικά σου αρχεία ήχου στη Βιβλιοθήκη σου</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Έχεις ένα τραγούδι ή ένα προσωπικό podcast που δεν υπάρχει στο Spotify;</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Έχεις ένα τραγούδι ή ένα προσωπικό podcast που δεν υπάρχει στο SpotiX;</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Τα αρχεία ήχου σου θα εμφανιστούν εδώ</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Παροχή πρόσβασης</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Μετάβαση στις Ρυθμίσεις</string>

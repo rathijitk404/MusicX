@@ -58,7 +58,7 @@
     <string name="context_type_description_artist" formatted="false">آرٹسٹ توں چلا رئیا اے</string>
     <string name="context_type_description_show" formatted="false">پوڈ کاسٹ توں چلا رئیا اے</string>
     <string name="context_type_description_search" formatted="false">تلاش توں چلا رئیا اے</string>
-    <string name="default_notification_channel_name" formatted="false">Spotify</string>
+    <string name="default_notification_channel_name" formatted="false">SpotiX</string>
     <string name="label_bluetooth" formatted="false">بلوٹوتھ</string>
     <string name="action_share_label" formatted="false">شئیر کرو</string>
     <string name="action_queue_label" formatted="false">قطار</string>
@@ -104,7 +104,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">فالو کیتے ہوئے آرٹسٹ</string>
     <string name="local_files_title" formatted="false">مقامی فائلاں</string>
     <string name="local_files_empty_section_title" formatted="false">آپنی ذاتی آڈیو فائلاں آپنی لائبریری وچ شامل کرو</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">اک ایہوجیہا گانا یا ذاتی پوڈکاسٹ ملی اے جیہڑی Spotify تے نہیں اے؟</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">اک ایہوجیہا گانا یا ذاتی پوڈکاسٹ ملی اے جیہڑی SpotiX تے نہیں اے؟</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">تہاڈی آڈیو فائلاں ایتھے ظاہر ہون گیاں</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">رسائی دوو</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">سیٹنگز اُتے جاؤ</string>

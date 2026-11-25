@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Artis yang diikuti</string>
     <string name="local_files_title" formatted="false">Fail Tempatan</string>
     <string name="local_files_empty_section_title" formatted="false">Tambahkan fail audio anda sendiri pada Pustaka Anda</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Terdapat lagu atau podcast peribadi yang tidak ada di Spotify?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Terdapat lagu atau podcast peribadi yang tidak ada di SpotiX?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Fail audio anda akan muncul di sini</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Berikan akses</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Pergi ke Tetapan</string>

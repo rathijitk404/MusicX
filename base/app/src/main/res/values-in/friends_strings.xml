@@ -2,7 +2,7 @@
 <resources>
     <string name="friends_title">Aktivitas teman</string>
     <string name="friends_now">Sekarang</string>
-    <string name="friends_empty">Belum ada aktivitas teman. Teman yang Anda ikuti dan membagikan aktivitas mendengarkan mereka di Spotify akan muncul di sini.</string>
-    <string name="friends_failed">Spotify tidak mengirim aktivitas teman.</string>
+    <string name="friends_empty">Belum ada aktivitas teman. Teman yang Anda ikuti dan membagikan aktivitas mendengarkan mereka di SpotiX akan muncul di sini.</string>
+    <string name="friends_failed">SpotiX tidak mengirim aktivitas teman.</string>
     <string name="friends_refresh">Muat ulang</string>
 </resources>

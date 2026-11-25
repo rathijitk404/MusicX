@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Виконавці, на яких ви підписалися</string>
     <string name="local_files_title" formatted="false">Локальні файли</string>
     <string name="local_files_empty_section_title" formatted="false">Додавайте власні аудіофайли до своєї бібліотеки</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Маєте пісню чи особистий подкаст, яких немає в Spotify?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Маєте пісню чи особистий подкаст, яких немає в SpotiX?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Тут відображатимуться ваші аудіофайли</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Надати доступ</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Перейти до налаштувань</string>

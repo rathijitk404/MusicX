@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Gevolgde kunstenaars</string>
     <string name="local_files_title" formatted="false">Plaaslike lêers</string>
     <string name="local_files_empty_section_title" formatted="false">Voeg jou eie klanklêers by Jou biblioteek</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Het jy \'n liedjie of persoonlike podsending wat nie op Spotify is nie?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Het jy \'n liedjie of persoonlike podsending wat nie op SpotiX is nie?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Jou klanklêers sal hier verskyn</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Gee toegang</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Gaan na Instellings</string>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="nerd_title">Статистика для гиков</string>
-    <string name="nerd_section_exo">Плеер Myspoti (ExoPlayer)</string>
-    <string name="nerd_section_spotify">Spotify (веб-плеер)</string>
+    <string name="nerd_section_exo">Плеер SpotiX (ExoPlayer)</string>
+    <string name="nerd_section_spotify">SpotiX (веб-плеер)</string>
     <string name="nerd_source">Источник</string>
     <string name="nerd_source_extension">Расширение: %1$s</string>
     <string name="nerd_source_extension_waiting">Расширение (ещё не ответило)</string>
@@ -48,11 +48,11 @@
     <string name="nerd_requested">Запрошено у страницы</string>
     <string name="nerd_page_reports">Сообщено страницей</string>
     <string name="nerd_page_reports_none">Пока ничего не сообщено</string>
-    <string name="nerd_mirror">Зеркало Spotify</string>
-    <string name="nerd_mirror_on">Включено: Spotify воспроизводит эту песню без звука на самом низком качестве, поэтому засчитывает её, и Connect её видит</string>
-    <string name="nerd_mirror_extension">Включено, удерживается расширением %1$s: Spotify воспроизводит без звука</string>
+    <string name="nerd_mirror">Зеркало SpotiX</string>
+    <string name="nerd_mirror_on">Включено: SpotiX воспроизводит эту песню без звука на самом низком качестве, поэтому засчитывает её, и Connect её видит</string>
+    <string name="nerd_mirror_extension">Включено, удерживается расширением %1$s: SpotiX воспроизводит без звука</string>
     <string name="nerd_mirror_off">Выключено</string>
-    <string name="nerd_spotify_note">Поток Spotify зашифрован внутри страницы: его точные кодек и битрейт недоступны, только то, что сообщает страница.</string>
+    <string name="nerd_spotify_note">Поток SpotiX зашифрован внутри страницы: его точные кодек и битрейт недоступны, только то, что сообщает страница.</string>
     <string name="nerd_spotify_remote">Звук идёт с другого устройства: этот телефон только управляет им.</string>
     <string name="nerd_automix">AutoMix</string>
     <string name="nerd_automix_blend">Сведение по битам</string>

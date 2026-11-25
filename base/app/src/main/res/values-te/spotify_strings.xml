@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">అనుసరించిన ఆర్టిస్ట్‌లు</string>
     <string name="local_files_title" formatted="false">స్థానిక ఫైల్స్</string>
     <string name="local_files_empty_section_title" formatted="false">మీ స్వంత ఆడియో ఫైల్స్‌ను మీ లైబ్రరీకి చేర్చండి</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Spotifyలో లేని పాట లేదా వ్యక్తిగత పాడ్కాస్ట్ ఉందా?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">SpotiXలో లేని పాట లేదా వ్యక్తిగత పాడ్కాస్ట్ ఉందా?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">మీ ఆడియో ఫైల్స్ ఇక్కడ కనిపిస్తాయి</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">యాక్సెస్ ఇవ్వండి</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">సెట్టింగ్‌లకు వెళ్లండి</string>

@@ -58,7 +58,7 @@
     <string name="context_type_description_artist" formatted="false">مطلوق من الفنان</string>
     <string name="context_type_description_show" formatted="false">خدم من البودكاست</string>
     <string name="context_type_description_search" formatted="false">مطلوق من البحث</string>
-    <string name="default_notification_channel_name" formatted="false">Spotify</string>
+    <string name="default_notification_channel_name" formatted="false">SpotiX</string>
     <string name="label_bluetooth" formatted="false">بلوتوت</string>
     <string name="action_share_label" formatted="false">شارك</string>
     <string name="action_queue_label" formatted="false">قائمة الاستماع</string>
@@ -104,7 +104,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">فنانين متابعهم</string>
     <string name="local_files_title" formatted="false">الفيشيات ديالك</string>
     <string name="local_files_empty_section_title" formatted="false">زيد الملفات الصوتية ديالك لمكتبتك الموسيقية</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">واش عندك أغنية أو بودكاست شخصي مكاينش في Spotify؟</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">واش عندك أغنية أو بودكاست شخصي مكاينش في SpotiX؟</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">الملفات الصوتية ديالك غادي تبان هنا</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">اسمح بالولوج</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">ادخل للإعدادات</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Myspoti</string>
+    <string name="app_name">SpotiX</string>
     <string name="aa_playlists">Playlisty</string>
     <string name="aa_albums">Albumy</string>
     <string name="aa_artists">Wykonawcy</string>
@@ -19,8 +19,8 @@
     <string name="video_fullscreen_enter">Pełny ekran</string>
     <string name="video_fullscreen_exit">Zamknij pełny ekran</string>
     <string name="playback_seek_description">Pozycja odtwarzania</string>
-    <string name="account_page_title">Konto Spotify</string>
+    <string name="account_page_title">Konto SpotiX</string>
     <string name="account_page_detail">Abonament, prywatność i urządzenia, na spotify.com</string>
     <string name="player_source_downloaded">Pobrane</string>
-    <string name="extension_change_write">Może teraz także wysyłać do Spotify: %1$s</string>
+    <string name="extension_change_write">Może teraz także wysyłać do SpotiX: %1$s</string>
 </resources>

@@ -3,10 +3,10 @@
 <resources>
     <string name="accounts_title">Konta</string>
     <string name="accounts_switch_row">Zmień konto</string>
-    <string name="accounts_switch_row_detail">Twoje konta Spotify na tym telefonie</string>
+    <string name="accounts_switch_row_detail">Twoje konta SpotiX na tym telefonie</string>
     <string name="accounts_add">Dodaj konto</string>
-    <string name="accounts_add_detail">Otwiera logowanie Spotify; konta tutaj pozostają zalogowane</string>
-    <string name="accounts_add_single_detail">Wylogowuje to konto i otwiera logowanie Spotify</string>
+    <string name="accounts_add_detail">Otwiera logowanie SpotiX; konta tutaj pozostają zalogowane</string>
+    <string name="accounts_add_single_detail">Wylogowuje to konto i otwiera logowanie SpotiX</string>
     <string name="accounts_not_signed_in">Niezalogowane</string>
     <string name="accounts_in_use">W użyciu</string>
     <string name="accounts_plan_premium">Premium</string>
@@ -18,6 +18,6 @@
     <string name="accounts_remove_title">Usunąć %1$s?</string>
     <string name="accounts_remove_text">Logowanie i dane internetowe zostaną usunięte z tego telefonu, razem z historią słuchania. Pobrane utwory zostaną odłożone i wrócą, jeśli dodasz konto ponownie.</string>
     <string name="accounts_footer">Każde konto pozostaje zalogowane na tym telefonie. Przełączenie zatrzymuje odtwarzanie; pobrane utwory i historia słuchania należą do swojego konta; rozszerzenia działają dalej.</string>
-    <string name="accounts_single_footer">WebView tego telefonu przechowuje jedno konto naraz: zmiana lub dodanie konta wylogowuje to konto i otwiera logowanie Spotify. Aktualizacja Android System WebView pozwala zachować kilka zalogowanych kont.</string>
+    <string name="accounts_single_footer">WebView tego telefonu przechowuje jedno konto naraz: zmiana lub dodanie konta wylogowuje to konto i otwiera logowanie SpotiX. Aktualizacja Android System WebView pozwala zachować kilka zalogowanych kont.</string>
     <string name="accounts_back_to">Powrót do %1$s</string>
 </resources>

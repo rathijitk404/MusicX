@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">フォローしているアーティスト</string>
     <string name="local_files_title" formatted="false">ローカルファイル</string>
     <string name="local_files_empty_section_title" formatted="false">マイライブラリに独自のオーディオファイルを追加しましょう</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Spotifyにない楽曲や個人のポッドキャストがおありですか？</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">SpotiXにない楽曲や個人のポッドキャストがおありですか？</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">オーディオファイルはこちらに表示されます</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">アクセスを許可</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">設定に移動</string>

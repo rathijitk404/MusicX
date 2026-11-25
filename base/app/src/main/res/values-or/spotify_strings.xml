@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">ଅନୁସରଣ କରାଯାଇଥିବା କଳାକାର</string>
     <string name="local_files_title" formatted="false">ଲୋକାଲ୍ ଫାଇଲ୍</string>
     <string name="local_files_empty_section_title" formatted="false">ଆପଣଙ୍କ ଲାଇବ୍ରେରୀରେ ଆପଣଙ୍କର ନିଜର ଅଡିଓ ଫାଇଲ୍ ଯୋଗ କରନ୍ତୁ</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Spotifyରେ ନଥିବା ଏକ ଗୀତ କିମ୍ବା ବ୍ୟକ୍ତିଗତ ପୋଡକାଷ୍ଟ ପାଇଛନ୍ତି କି?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">SpotiXରେ ନଥିବା ଏକ ଗୀତ କିମ୍ବା ବ୍ୟକ୍ତିଗତ ପୋଡକାଷ୍ଟ ପାଇଛନ୍ତି କି?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">ଆପଣଙ୍କ ଅଡିଓ ଫାଇଲଗୁଡ଼ିକ ଏଠାରେ ଦେଖାଯିବ</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">ଆକ୍ସେସ୍ ଦିଅନ୍ତୁ</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">ସେଟିଂସକୁ ଯାଆନ୍ତୁ</string>

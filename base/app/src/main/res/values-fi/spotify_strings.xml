@@ -105,7 +105,7 @@
     <string name="song_dna_search_chip_followed_artists" formatted="false">Seuratut artistit</string>
     <string name="local_files_title" formatted="false">Paikalliset tiedostot</string>
     <string name="local_files_empty_section_title" formatted="false">Lisää omia äänitiedostoja Omaan kirjastoon</string>
-    <string name="local_files_empty_section_subtitle" formatted="false">Onko sinulla kappale tai henkilökohtainen podcast, jota ei ole Spotifyssa?</string>
+    <string name="local_files_empty_section_subtitle" formatted="false">Onko sinulla kappale tai henkilökohtainen podcast, jota ei ole SpotiXssa?</string>
     <string name="local_files_empty_section_no_files_title" formatted="false">Äänitiedostosi näkyvät tässä</string>
     <string name="local_files_empty_section_dialog_permission_rationale_accept" formatted="false">Anna lupa</string>
     <string name="local_files_empty_section_button_go_to_settings" formatted="false">Siirry asetuksiin</string>
