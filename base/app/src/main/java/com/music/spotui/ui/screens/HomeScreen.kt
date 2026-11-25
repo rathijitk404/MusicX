@@ -613,14 +613,14 @@ private fun ProfileSheet(onOpen: (route: String) -> Unit = {}, onDismiss: () -> 
                 Text(stringResource(R.string.account_page_detail), color = AppMuted, fontSize = 12.sp)
             }
             val ctx = androidx.compose.ui.platform.LocalContext.current
-            // Cloud X: the maker, links and the credit to the original app.
+            // SpotiX: the app and its maker.
             var about by remember { androidx.compose.runtime.mutableStateOf(false) }
             if (about) com.music.spotui.ui.components.AboutSheet(onDismiss = { about = false })
             androidx.compose.foundation.layout.Column(
                 Modifier.fillMaxWidth().clickable { about = true }.padding(horizontal = 20.dp, vertical = 10.dp),
             ) {
-                Text("Cloud X", color = AppText, fontSize = 16.sp)
-                Text("SpotiX by RYÚK ZÉRÖ · links and credits", color = AppMuted, fontSize = 12.sp)
+                Text("SpotiX", color = AppText, fontSize = 16.sp)
+                Text("Created by \uD800\uDC82Rathijitk~", color = AppMuted, fontSize = 12.sp)
             }
             var perks by remember { androidx.compose.runtime.mutableStateOf(false) }
             if (perks) com.music.spotui.ui.components.SupporterSheet(onDismiss = { perks = false })

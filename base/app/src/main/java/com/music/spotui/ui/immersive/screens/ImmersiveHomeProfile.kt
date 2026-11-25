@@ -181,10 +181,10 @@ internal fun ImmersiveProfileSheet(onOpen: (route: String) -> Unit, onDismiss: (
                 onDismiss()
                 AccountBrowser.open(Graph.app, AccountBrowser.ACCOUNT_URL)
             }
-            // Cloud X: the maker, links and the credit to the original app.
+            // SpotiX: the app and its maker.
             var about by remember { mutableStateOf(false) }
             if (about) AboutSheet(onDismiss = { about = false })
-            SheetRow("Cloud X", "SpotiX by RYÚK ZÉRÖ · links and credits") {
+            SheetRow("SpotiX", "Created by \uD800\uDC82Rathijitk~") {
                 about = true
             }
             var perks by remember { mutableStateOf(false) }

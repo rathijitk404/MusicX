@@ -90,7 +90,7 @@ android {
         debug {
             // Installs next to the release apps (own data, own sign-in).
             if (!automixLab) applicationIdSuffix = ".dev"
-            manifestPlaceholders["appLabel"] = if (automixLab) "SpotiX Mix Lab" else "SpotiX dev"
+            manifestPlaceholders["appLabel"] = if (automixLab) "SpotiX Mix Lab" else "SpotiX"
             manifestPlaceholders["cliEnabled"] = "true"
         }
         release {
@@ -101,7 +101,7 @@ android {
             // beta on the test phone without replacing the signed beta installed there.
             if (findProperty("overDev") != null && !automixLab) {
                 applicationIdSuffix = ".dev"
-                manifestPlaceholders["appLabel"] = "SpotiX dev"
+                manifestPlaceholders["appLabel"] = "SpotiX"
             }
             isMinifyEnabled = true
             isShrinkResources = true

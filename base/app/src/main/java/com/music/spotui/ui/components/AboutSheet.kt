@@ -49,38 +49,33 @@ private fun openUrl(context: Context, url: String) {
     }
 }
 
-/** Cloud X: who made SpotiX, where to find them, and the credit to the app it is built from (GPL-3.0). */
+/** SpotiX: the app and who made it. */
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun AboutSheet(onDismiss: () -> Unit) {
-    val context = LocalContext.current
     com.music.spotui.extensions.ProtectedSurfaceEffect(app.myspoti.extensions.ProtectedSurface.ABOUT)
     LookSheet(
         onDismissRequest = onDismiss,
         sheetState = androidx.compose.material3.rememberModalBottomSheetState(skipPartiallyExpanded = true),
         containerColor = tone(0xFF282828),
     ) {
-        Column(Modifier.navigationBarsPadding().verticalScroll(rememberScrollState()).padding(bottom = 20.dp)) {
+        Column(Modifier.navigationBarsPadding().verticalScroll(rememberScrollState()).padding(bottom = 28.dp)) {
             Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.padding(horizontal = 20.dp)) {
                 Image(
                     painterResource(R.drawable.ic_launcher_foreground), contentDescription = null,
-                    modifier = Modifier.size(56.dp).clip(RoundedCornerShape(14.dp)).background(tone(0xFF000000)),
+                    modifier = Modifier.size(56.dp).clip(RoundedCornerShape(14.dp)).background(tone(0xFFFFFFFF)),
                 )
                 Column(Modifier.padding(start = 14.dp)) {
-                    Text("Cloud X", color = AppText, fontSize = 20.sp, fontWeight = FontWeight.Bold)
-                    Text("SpotiX ${BuildConfig.VERSION_NAME}", color = AppMuted, fontSize = 13.sp)
+                    Text("SpotiX", color = AppText, fontSize = 20.sp, fontWeight = FontWeight.Bold)
+                    Text(BuildConfig.VERSION_NAME, color = AppMuted, fontSize = 13.sp)
                 }
             }
-            Text("SpotiX is made by RYÚK ZÉRÖ (Rathijit Karmakar).", color = AppMuted, fontSize = 13.sp,
-                modifier = Modifier.padding(start = 20.dp, end = 20.dp, top = 12.dp, bottom = 8.dp))
-            AboutRow("Instagram", "@rathijitk_zero") { openUrl(context, "https://instagram.com/rathijitk_zero") }
-            AboutRow("GitHub", "rathijitk404") { openUrl(context, "https://github.com/rathijitk404") }
-            AboutRow("Source code", "SpotiX on GitHub") { openUrl(context, "https://github.com/rathijitk404/MusicX") }
-            Text("SpotiX is a modified version of Myspoti by kota-zo, free software under the GNU GPL v3. " +
-                "Not affiliated with Spotify.", color = AppMuted, fontSize = 12.sp,
-                modifier = Modifier.padding(start = 20.dp, end = 20.dp, top = 14.dp, bottom = 4.dp))
-            AboutRow("Original app: Myspoti", "github.com/kota-zo/myspoti") { openUrl(context, "https://github.com/kota-zo/myspoti") }
-            AboutRow("License", "GNU General Public License v3.0") { openUrl(context, "https://www.gnu.org/licenses/gpl-3.0.html") }
+            Column(Modifier.fillMaxWidth().padding(top = 36.dp), horizontalAlignment = Alignment.CenterHorizontally) {
+                Text("DEVELOPED WITH PASSION", color = AppMuted, fontSize = 12.sp, fontWeight = FontWeight.Bold,
+                    letterSpacing = 2.sp)
+                Text("Created by \uD800\uDC82Rathijitk~", color = AppText, fontSize = 18.sp, fontWeight = FontWeight.Bold,
+                    modifier = Modifier.padding(top = 8.dp))
+            }
         }
     }
 }
