@@ -63,8 +63,9 @@ fun AboutSheet(onDismiss: () -> Unit) {
         Column(Modifier.navigationBarsPadding().verticalScroll(rememberScrollState()).padding(bottom = 28.dp)) {
             Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.padding(horizontal = 20.dp)) {
                 Image(
-                    painterResource(R.drawable.ic_launcher_foreground), contentDescription = null,
-                    modifier = Modifier.size(56.dp).clip(RoundedCornerShape(14.dp)).background(tone(0xFF000000)),
+                    painterResource(R.drawable.about_cartoon), contentDescription = null,
+                    contentScale = androidx.compose.ui.layout.ContentScale.Crop,
+                    modifier = Modifier.size(56.dp).clip(RoundedCornerShape(14.dp)),
                 )
                 Column(Modifier.padding(start = 14.dp)) {
                     Text("SpotiX", color = AppText, fontSize = 20.sp, fontWeight = FontWeight.Bold)
