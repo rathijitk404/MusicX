@@ -187,7 +187,6 @@ class MainActivity : AppCompatActivity() {
                         com.music.spotui.extensions.ExtensionConfirmHost()
                         // An extension's sign-in page, in a web view of its own.
                         com.music.spotui.extensions.ExtensionAuthHost()
-                        com.music.spotui.ui.components.StartupIntro()
                         // Picture-in-picture: the clip alone, over the app (which stays composed underneath,
                         // so coming back finds the same screen).
                         if (inPip) {

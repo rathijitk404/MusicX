@@ -93,7 +93,7 @@ fun WelcomeScreen(onLogin: () -> Unit) {
                 modifier = Modifier.fillMaxWidth().align(Alignment.Center).padding(bottom = 120.dp),
             ) {
                 Image(
-                    painter = painterResource(R.drawable.ic_launcher_foreground),
+                    painter = painterResource(R.drawable.welcome_logo),
                     contentDescription = null,
                     modifier = Modifier
                         .size(120.dp)
@@ -104,7 +104,8 @@ fun WelcomeScreen(onLogin: () -> Unit) {
                             scaleX = s; scaleY = s
                         }
                         .clip(RoundedCornerShape(32.dp))
-                        .background(tone(0xFF181818)),
+                        .background(tone(0xFF181818))
+                        .padding(24.dp),
                 )
                 Spacer(Modifier.height(28.dp))
                 Text("SpotiX", color = AppText, fontFamily = AppSans, fontWeight = FontWeight.ExtraBold, fontSize = 40.sp,
