@@ -72,9 +72,11 @@ fun AboutSheet(onDismiss: () -> Unit) {
             }
             Text("SpotiX is made by RYÚK ZÉRÖ (Rathijit Karmakar).", color = AppMuted, fontSize = 13.sp,
                 modifier = Modifier.padding(start = 20.dp, end = 20.dp, top = 12.dp, bottom = 8.dp))
-            AboutRow("Instagram", "@rathijitk_zero") { openUrl(context, "https://instagram.com/rathijitk_zero") }
-            AboutRow("GitHub", "rathijitk404") { openUrl(context, "https://github.com/rathijitk404") }
-            AboutRow("Source code", "SpotiX on GitHub") { openUrl(context, "https://github.com/rathijitk404/MusicX") }
+            AboutRow(R.drawable.ic_about_instagram, "Instagram", "@rathijitk_zero") { openUrl(context, "https://instagram.com/rathijitk_zero") }
+            AboutRow(R.drawable.ic_about_telegram, "Telegram group", "t.me/rathijitk") { openUrl(context, "https://t.me/rathijitk") }
+            AboutRow(R.drawable.ic_about_whatsapp, "WhatsApp channel", "SpotiX updates & news") { openUrl(context, "https://whatsapp.com/channel/0029VbD1LVELI8YUUSD9SY2h") }
+            AboutRow(R.drawable.ic_about_github, "GitHub", "rathijitk404") { openUrl(context, "https://github.com/rathijitk404") }
+            AboutRow(R.drawable.ic_about_code, "Source code", "SpotiX on GitHub") { openUrl(context, "https://github.com/rathijitk404/MusicX") }
             Column(Modifier.fillMaxWidth().padding(top = 44.dp), horizontalAlignment = Alignment.CenterHorizontally) {
                 Text("DEVELOPED WITH PASSION", color = AppMuted, fontSize = 12.sp, fontWeight = FontWeight.Bold,
                     letterSpacing = 2.sp)
@@ -123,9 +125,12 @@ fun SupportSheet(onDismiss: () -> Unit) {
 }
 
 @Composable
-private fun AboutRow(title: String, detail: String, onClick: () -> Unit) {
-    Column(Modifier.fillMaxWidth().clickable(onClick = onClick).padding(horizontal = 20.dp, vertical = 10.dp)) {
-        Text(title, color = AppText, fontSize = 16.sp)
-        Text(detail, color = AppMuted, fontSize = 12.sp)
+private fun AboutRow(icon: Int, title: String, detail: String, onClick: () -> Unit) {
+    Row(Modifier.fillMaxWidth().clickable(onClick = onClick).padding(horizontal = 20.dp, vertical = 10.dp), verticalAlignment = Alignment.CenterVertically) {
+        Image(painterResource(icon), contentDescription = null, modifier = Modifier.size(28.dp))
+        Column(Modifier.padding(start = 16.dp)) {
+            Text(title, color = AppText, fontSize = 16.sp)
+            Text(detail, color = AppMuted, fontSize = 12.sp)
+        }
     }
 }
