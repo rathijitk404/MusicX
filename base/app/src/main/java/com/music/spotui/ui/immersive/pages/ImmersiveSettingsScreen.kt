@@ -1078,32 +1078,6 @@ private fun AppPage(navController: NavController, back: () -> Unit) {
     val scope = rememberCoroutineScope()
     val check = com.music.spotui.data.api.rememberUpdateCheckState(ctx)
     ImmersivePage(title = stringResource(R.string.settings_section_app), onBack = back) {
-        immersiveGroup("updates") {
-            row {
-                ImmersiveSwitchRow(stringResource(R.string.settings_auto_update_title), checked = com.music.spotui.data.preferences.AutoUpdateCheckPref.on,
-                    onChecked = { com.music.spotui.data.preferences.AutoUpdateCheckPref.set(ctx, it) }, detail = stringResource(R.string.settings_auto_update_detail))
-            }
-            row {
-                val known = com.music.spotui.updateRelease.value ?: remember { com.music.spotui.data.api.UpdateChecker.known(ctx) }
-                val detail = buildString {
-                    if (known != null) appendLine(ctx.getString(R.string.settings_update_available, known.version))
-                    check.message?.takeIf { known == null || check.isError }?.let { appendLine(it) }
-                    append(check.lastCheckedText)
-                }
-                ImmersiveGroupRow(
-                    stringResource(R.string.settings_about_version, app.myspoti.engine.BuildConfig.VERSION_NAME),
-                    detail = detail,
-                    detailColor = if (check.isError) Immersive.Destructive else Immersive.TextSecondary,
-                    onClick = if (known != null) ({ com.music.spotui.updateRelease.value = known }) else null,
-                    trailing = {
-                        if (check.checking) androidx.compose.material3.CircularProgressIndicator(Modifier.size(22.dp), strokeWidth = 2.dp, color = Immersive.Accent)
-                        else androidx.compose.material3.IconButton(onClick = { scope.launch { check.run() } }) {
-                            androidx.compose.material3.Icon(Icons.Rounded.Refresh, stringResource(R.string.settings_update_refresh), tint = Immersive.Accent)
-                        }
-                    },
-                )
-            }
-        }
         immersiveGroup("repair") {
             // The hidden Web Player stuck or crashed: rebuild it without leaving the app.
             row {

@@ -51,6 +51,8 @@ object UpdateChecker {
      * and never erases the release already known.
      */
     suspend fun check(context: Context, manual: Boolean = false): Release? = withContext(Dispatchers.IO) {
+        return@withContext null
+        @Suppress("UNREACHABLE_CODE")
         val repo = BuildConfig.UPDATE_REPO
         if (repo.isBlank()) return@withContext null
         val prefs = context.getSharedPreferences("updates", Context.MODE_PRIVATE)
@@ -65,6 +67,8 @@ object UpdateChecker {
      * cache, and says what happened.
      */
     suspend fun refresh(context: Context): Outcome = withContext(Dispatchers.IO) {
+        return@withContext Outcome.UpToDate
+        @Suppress("UNREACHABLE_CODE")
         val repo = BuildConfig.UPDATE_REPO
         if (repo.isBlank()) return@withContext Outcome.UpToDate
         val prefs = context.getSharedPreferences("updates", Context.MODE_PRIVATE)
@@ -113,6 +117,7 @@ object UpdateChecker {
 
     /** The latest release known, if newer than this build and (unless [manual]) not dismissed. */
     private fun pending(prefs: android.content.SharedPreferences, manual: Boolean = false): Release? {
+        if (true) return null
         val version = prefs.getString("version", null) ?: return null
         val url = prefs.getString("url", null) ?: return null
         if (!manual && prefs.getString("dismissed", null) == version) return null

@@ -58,7 +58,7 @@ object RadioBrowserApi {
         "https://at1.api.radio-browser.info",
     )
     private const val CURATED_PREFIX = "curated-"
-    private const val USER_AGENT = "Myspoti/1.0 (Live Radio module; +https://github.com/kota-zo/myspoti)"
+    private const val USER_AGENT = "Myspoti/1.0 (Live Radio module)"
 
     private val json = Json { ignoreUnknownKeys = true }
     private val http by lazy { OkHttpClient.Builder().callTimeout(12, TimeUnit.SECONDS).build() }

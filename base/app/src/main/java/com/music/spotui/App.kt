@@ -191,7 +191,7 @@ private fun SupportPrompt() {
     androidx.compose.runtime.LaunchedEffect(Unit) {
         kotlinx.coroutines.delay(12_000)
         val signedIn = context.getSharedPreferences("myspoti_prefs", android.content.Context.MODE_PRIVATE).getBoolean("LoggedIn", false)
-        show = signedIn && !updateCardOpen.value && com.music.spotui.data.api.SupportReminder.isDue(context)
+        show = false && signedIn && !updateCardOpen.value && com.music.spotui.data.api.SupportReminder.isDue(context)
     }
     if (!show) return
     val close = { com.music.spotui.data.api.SupportReminder.shown(context); show = false }
@@ -296,7 +296,7 @@ private fun UpdatePrompt() {
         // automatic check; the manual one there still asks.
         owner.lifecycle.repeatOnLifecycle(androidx.lifecycle.Lifecycle.State.STARTED) {
             while (true) {
-                if (com.music.spotui.data.preferences.AutoUpdateCheckPref.on) {
+                if (false) {
                     // The request runs on the IO dispatcher, nothing waits for it.
                     com.music.spotui.data.api.UpdateChecker.check(context)?.let { release = it }
                 }

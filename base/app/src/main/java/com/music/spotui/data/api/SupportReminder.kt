@@ -20,9 +20,9 @@ import com.music.spotui.data.preferences.LookPref
  * sold): it unlocks cosmetic thank-yous only (accent colour, app icon, badge).
  */
 object SupportReminder {
-    const val URL = "https://ko-fi.com/myspoti"
+    const val URL = ""
     /** GitHub Sponsors, the other way to give (monthly or once). */
-    const val SPONSORS_URL = "https://github.com/sponsors/kota-zo"
+    const val SPONSORS_URL = ""
     const val FIRST_AFTER_MS = 24L * 3_600_000
     /**
      * Supporter perks ("I've supported", accent, icon, badge) are off until supports can
